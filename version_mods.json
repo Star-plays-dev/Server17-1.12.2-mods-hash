@@ -1,0 +1,54 @@
+{
+    "1.12FenceOverhaul_1.3.2.jar": {
+        "hash": "a8d5436f078838b570a2968d7f6885719f5f46fbb3c9fd9c6180cb5061253262",
+        "size": 39884
+    },
+    "clientfixer-1.12.2-1.9.jar": {
+        "hash": "affd490dd56dee447f0b868b9fdd1a6ad797ca306fc8c7d871a265a719f70bad",
+        "size": 13230
+    },
+    "CustomMainMenu-MC1.12.2-2.0.9.1.jar": {
+        "hash": "dab35a9a00469de667f7dccb8750f3be0d56d73538a379d118f8fba454aa3f1f",
+        "size": 4528041
+    },
+    "ears-forge-1.12-1.4.7.jar": {
+        "hash": "0c2c43f07df5d93c45df173b88fb7ae86b5b8efca92f210fe39b7455a9ca19c9",
+        "size": 372284
+    },
+    "firstaid-1.6.22.jar": {
+        "hash": "55dfe81a58d20575b6f6aa635d4296370c804fe52b77485b455aa99910da31a4",
+        "size": 493904
+    },
+    "GiacomosBookshelf_1.12.2_1.1.1.jar": {
+        "hash": "e786f69c43ffaaef2b5d4d817dca0e871517e219fbf3b94f1971596d2dfe6524",
+        "size": 168231
+    },
+    "jei_1.12.2-4.16.1.1013.jar": {
+        "hash": "52d0782ad805c20b1061711faa64a5fdc4640639738f7cedb1e5b0be46fc8685",
+        "size": 655406
+    },
+    "OptiFine_1.12.2_HD_U_G5.jar": {
+        "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "size": 2
+    },
+    "plonk-1.12.2-10.0.4.jar": {
+        "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
+        "size": 135036
+    },
+    "rustic-1.2.0.jar": {
+        "hash": "131ca88f046252718f9bddaa472b6becbc7f0ab1db563785250fd47a7e775e19",
+        "size": 1656987
+    },
+    "sit_1.12.x_v1.1.1.jar": {
+        "hash": "f9e9ea024b8b588f7a2787760a4979f3395a4aaba02de9ffdcdf13b9a7a4cf10",
+        "size": 5788
+    },
+    "SovietEra-0.6-1.12.2.jar": {
+        "hash": "721ef44d6092c5fb242181bdeb281c8b98cae53a081f14235b73c105d1c69086",
+        "size": 4011851
+    },
+    "VoiceChatReloaded-1.12.2-1.3.0.jar": {
+        "hash": "c3b8b7aba426c86a377d264d1b0996577d2ef8492a9b44bc364579d77066b1a5",
+        "size": 423808
+    }
+}
