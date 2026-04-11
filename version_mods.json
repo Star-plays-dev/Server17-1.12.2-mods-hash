@@ -23,6 +23,10 @@
         "hash": "52d0782ad805c20b1061711faa64a5fdc4640639738f7cedb1e5b0be46fc8685",
         "size": 655406
     },
+    "Locks-1.12.2-3.0.0.jar": {
+        "hash": "cfe162b2c919aef2acf0bc35e5c9124847d95458bba25a1141a1c359be66d809",
+        "size": 1529957
+    },
     "OptiFine_1.12.2_HD_U_G5.jar": {
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
         "size": 2
@@ -30,10 +34,6 @@
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
         "size": 135036
-    },
-    "rustic-1.2.0.jar": {
-        "hash": "131ca88f046252718f9bddaa472b6becbc7f0ab1db563785250fd47a7e775e19",
-        "size": 1656987
     },
     "sit_1.12.x_v1.1.1.jar": {
         "hash": "f9e9ea024b8b588f7a2787760a4979f3395a4aaba02de9ffdcdf13b9a7a4cf10",
@@ -43,8 +43,8 @@
         "hash": "721ef44d6092c5fb242181bdeb281c8b98cae53a081f14235b73c105d1c69086",
         "size": 4011851
     },
-    "VoiceChatReloaded-1.12.2-1.3.0.jar": {
-        "hash": "c3b8b7aba426c86a377d264d1b0996577d2ef8492a9b44bc364579d77066b1a5",
-        "size": 423808
+    "VoiceChat_1.12.2_0.7.0.jar": {
+        "hash": "4e2e9cb3f43626168c1b59fe8ad96173329c972cee857b525300750fc20f5d66",
+        "size": 445000
     }
 }
