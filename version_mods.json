@@ -11,6 +11,10 @@
         "hash": "dab35a9a00469de667f7dccb8750f3be0d56d73538a379d118f8fba454aa3f1f",
         "size": 4528041
     },
+    "CustomSkinLoader_ForgeV1-14.28.jar": {
+        "hash": "e43409dcc9476629a0295d1662c79dcf106f43e4d943cefd75d8e6feebc3362d",
+        "size": 199551
+    },
     "ears-forge-1.12-1.4.7.jar": {
         "hash": "0c2c43f07df5d93c45df173b88fb7ae86b5b8efca92f210fe39b7455a9ca19c9",
         "size": 372284
@@ -30,10 +34,6 @@
     "Locks-1.12.2-3.0.0.jar": {
         "hash": "cfe162b2c919aef2acf0bc35e5c9124847d95458bba25a1141a1c359be66d809",
         "size": 1529957
-    },
-    "OptiFine_1.12.2_HD_U_G5.jar": {
-        "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
-        "size": 2
     },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
