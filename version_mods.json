@@ -59,13 +59,17 @@
         "hash": "4b996f14cc853686eaff8cee91744ef8266c99ac5f4e04ff9454444762cf5f24",
         "size": 31130
     },
-    "modchuma130.jar": {
-        "hash": "93fb9e60ada9e9d19ad6d6b75261b0a51006cf43976b36bf6b8ffea26c4b4c2e",
-        "size": 4126590
+    "modchuma125.jar": {
+        "hash": "7dfed1ef7296a45791ff5bf8c90a5aa84acf7aaec150e8591a16d146fd417e61",
+        "size": 4040258
     },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
         "size": 135036
+    },
+    "SereneSeasons-1.12.2-1.2.18-universal.jar": {
+        "hash": "f52033660557331cc4847337325fdab05b07df0ceaa851382cf46137286e243a",
+        "size": 185187
     },
     "sit_1.12.x_v1.1.1.jar": {
         "hash": "f9e9ea024b8b588f7a2787760a4979f3395a4aaba02de9ffdcdf13b9a7a4cf10",
