@@ -15,13 +15,17 @@
         "hash": "e43409dcc9476629a0295d1662c79dcf106f43e4d943cefd75d8e6feebc3362d",
         "size": 199551
     },
-    "DisableFog.jar": {
-        "hash": "2911dfc97f87d44bc8307ad1a917a83d31a94fc9311eb2d33636413820671562",
-        "size": 20387
+    "DisableFogButton.jar": {
+        "hash": "50c789e6c7392c0ec4b891142f3b1d81127ba74689b04473e5422bd3bd283b16",
+        "size": 21321
     },
     "ears-forge-1.12-1.4.7.jar": {
         "hash": "0c2c43f07df5d93c45df173b88fb7ae86b5b8efca92f210fe39b7455a9ca19c9",
         "size": 372284
+    },
+    "fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar": {
+        "hash": "a803fe18e69f4df03de1b296f8d3c19848d2424f3435cc5e0ecd481436d5094f",
+        "size": 1260832
     },
     "firstaid-1.6.22.jar": {
         "hash": "55dfe81a58d20575b6f6aa635d4296370c804fe52b77485b455aa99910da31a4",
@@ -39,6 +43,10 @@
         "hash": "52d0782ad805c20b1061711faa64a5fdc4640639738f7cedb1e5b0be46fc8685",
         "size": 655406
     },
+    "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar": {
+        "hash": "5b412639b99dea3dbc7311cd4bdcf310dbdfd8e9c6eba4f2abe839c261aa0c7a",
+        "size": 618150
+    },
     "Legacy-Gamemode-Switcher-1.10-1.12.2-v0.1.jar": {
         "hash": "d7c0ef9e29305524f8a3d5a710b296f27f97a448622eb1cdc6eb7c6412f41e7e",
         "size": 86169
@@ -47,17 +55,17 @@
         "hash": "cfe162b2c919aef2acf0bc35e5c9124847d95458bba25a1141a1c359be66d809",
         "size": 1529957
     },
-    "modchuma77.jar": {
-        "hash": "59bc74689c9ba5a3b264133f927d73ccf77a37e73e73f23529c2ad2ccf070f07",
-        "size": 2551098
+    "LonelyBiome_1.12.2_2.0.0(1).jar": {
+        "hash": "4b996f14cc853686eaff8cee91744ef8266c99ac5f4e04ff9454444762cf5f24",
+        "size": 31130
+    },
+    "modchuma130.jar": {
+        "hash": "93fb9e60ada9e9d19ad6d6b75261b0a51006cf43976b36bf6b8ffea26c4b4c2e",
+        "size": 4126590
     },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
         "size": 135036
-    },
-    "SereneSeasons-1.12.2-1.2.18-universal.jar": {
-        "hash": "f52033660557331cc4847337325fdab05b07df0ceaa851382cf46137286e243a",
-        "size": 185187
     },
     "sit_1.12.x_v1.1.1.jar": {
         "hash": "f9e9ea024b8b588f7a2787760a4979f3395a4aaba02de9ffdcdf13b9a7a4cf10",
@@ -66,5 +74,9 @@
     "SovietEra-0.6-1.12.2.jar": {
         "hash": "721ef44d6092c5fb242181bdeb281c8b98cae53a081f14235b73c105d1c69086",
         "size": 4011851
+    },
+    "_MixinBootstrap-1.1.0.jar": {
+        "hash": "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731",
+        "size": 1119478
     }
 }
