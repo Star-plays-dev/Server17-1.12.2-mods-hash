@@ -63,13 +63,13 @@
         "hash": "7dfed1ef7296a45791ff5bf8c90a5aa84acf7aaec150e8591a16d146fd417e61",
         "size": 4040258
     },
+    "modchuma183.jar": {
+        "hash": "1aca2ba8ffd1bae58ce4d145f25968fba1ba6605000711985deaacfdcb830fae",
+        "size": 4158586
+    },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
         "size": 135036
-    },
-    "SereneSeasons-1.12.2-1.2.18-universal.jar": {
-        "hash": "f52033660557331cc4847337325fdab05b07df0ceaa851382cf46137286e243a",
-        "size": 185187
     },
     "sit_1.12.x_v1.1.1.jar": {
         "hash": "f9e9ea024b8b588f7a2787760a4979f3395a4aaba02de9ffdcdf13b9a7a4cf10",
@@ -78,6 +78,10 @@
     "SovietEra-0.6-1.12.2.jar": {
         "hash": "721ef44d6092c5fb242181bdeb281c8b98cae53a081f14235b73c105d1c69086",
         "size": 4011851
+    },
+    "worldedit-forge-mc1.12.2-6.1.10-dist.jar": {
+        "hash": "cd4768ded9e2b527e3fc093fdf4ce07f058187de7961bdc0d7fa821c1b756f75",
+        "size": 1479535
     },
     "_MixinBootstrap-1.1.0.jar": {
         "hash": "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731",
