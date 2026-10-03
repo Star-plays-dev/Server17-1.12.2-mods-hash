@@ -31,6 +31,10 @@
         "hash": "a803fe18e69f4df03de1b296f8d3c19848d2424f3435cc5e0ecd481436d5094f",
         "size": 1260832
     },
+    "finite_water-1.0.jar": {
+        "hash": "e404bff49558bf83151c611ef6bccc74a64872e326df203899c6d3b9b8e4a46a",
+        "size": 4053
+    },
     "firstaid-1.6.22.jar": {
         "hash": "55dfe81a58d20575b6f6aa635d4296370c804fe52b77485b455aa99910da31a4",
         "size": 493904
@@ -67,9 +71,9 @@
         "hash": "555429ba89d660fa2d46c6a703f29aac079c9b28750a0efdf199fe0098ded47b",
         "size": 748794
     },
-    "modchuma195.jar": {
-        "hash": "f3bae382d66edb87b65b8543459805165f5ef73ef4a55dd44dafdefcd8da772a",
-        "size": 4203602
+    "modchuma282.jar": {
+        "hash": "d290d1b49eb171b7efdadca22f2b166560c7a5ef5a8344e70d487eef7145ec6c",
+        "size": 4490187
     },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
@@ -82,6 +86,10 @@
     "SovietEra-0.6-1.12.2.jar": {
         "hash": "721ef44d6092c5fb242181bdeb281c8b98cae53a081f14235b73c105d1c69086",
         "size": 4011851
+    },
+    "ThirstyBottles-1.12.2-2.0.1.jar": {
+        "hash": "1fa59f5db67ca71d7bf4b3ac7dec9034e86971c32d27c09ed68009ac9a7cea22",
+        "size": 7564
     },
     "worldedit-forge-mc1.12.2-6.1.10-dist.jar": {
         "hash": "cd4768ded9e2b527e3fc093fdf4ce07f058187de7961bdc0d7fa821c1b756f75",
