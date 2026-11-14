@@ -27,10 +27,6 @@
         "hash": "0c2c43f07df5d93c45df173b88fb7ae86b5b8efca92f210fe39b7455a9ca19c9",
         "size": 372284
     },
-    "finite_water-1.0.jar": {
-        "hash": "e404bff49558bf83151c611ef6bccc74a64872e326df203899c6d3b9b8e4a46a",
-        "size": 4053
-    },
     "firstaid-1.6.22.jar": {
         "hash": "55dfe81a58d20575b6f6aa635d4296370c804fe52b77485b455aa99910da31a4",
         "size": 493904
@@ -63,6 +59,14 @@
         "hash": "555429ba89d660fa2d46c6a703f29aac079c9b28750a0efdf199fe0098ded47b",
         "size": 748794
     },
+    "modchuma.jar": {
+        "hash": "5e87fccabff3c29081a1192c2af05d9d6f9b6e9552496b35c54bf20649a73d89",
+        "size": 4877443
+    },
+    "ModularMovements-1.2.0f-1.12.2.jar": {
+        "hash": "e63d7ca4526468e7ecd196330c6869e1c90a9880b4be2f99eb9269d107d9e74b",
+        "size": 52281
+    },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
         "size": 135036
@@ -78,6 +82,10 @@
     "ThirstyBottles-1.12.2-2.0.1.jar": {
         "hash": "1fa59f5db67ca71d7bf4b3ac7dec9034e86971c32d27c09ed68009ac9a7cea22",
         "size": 7564
+    },
+    "ToughAsNails_1.12.2_3.1.0.140_universal.jar": {
+        "hash": "ee58f7ac23f690a8f17bb10e3cfdeb4225827032098d9b23b9aa9776e308b17b",
+        "size": 354868
     },
     "worldedit-forge-mc1.12.2-6.1.10-dist.jar": {
         "hash": "cd4768ded9e2b527e3fc093fdf4ce07f058187de7961bdc0d7fa821c1b756f75",
