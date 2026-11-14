@@ -43,10 +43,6 @@
         "hash": "e786f69c43ffaaef2b5d4d817dca0e871517e219fbf3b94f1971596d2dfe6524",
         "size": 168231
     },
-    "jei_1.12.2-4.16.1.1013.jar": {
-        "hash": "52d0782ad805c20b1061711faa64a5fdc4640639738f7cedb1e5b0be46fc8685",
-        "size": 655406
-    },
     "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar": {
         "hash": "5b412639b99dea3dbc7311cd4bdcf310dbdfd8e9c6eba4f2abe839c261aa0c7a",
         "size": 618150
@@ -68,8 +64,8 @@
         "size": 748794
     },
     "modchuma.jar": {
-        "hash": "2cdf05be8d69d614c781108da29274bc49fb823df52979694fff1b95fd91df81",
-        "size": 4879986
+        "hash": "f6141fa0929f5256342d1cc4ff20a00d0533bca9b517ab85b4cc4ce93cd59f62",
+        "size": 4873593
     },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
