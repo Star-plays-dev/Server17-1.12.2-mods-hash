@@ -51,13 +51,9 @@
         "hash": "4b996f14cc853686eaff8cee91744ef8266c99ac5f4e04ff9454444762cf5f24",
         "size": 31130
     },
-    "mclib-2.4.2-1.12.2.jar": {
-        "hash": "555429ba89d660fa2d46c6a703f29aac079c9b28750a0efdf199fe0098ded47b",
-        "size": 748794
-    },
     "modchuma.jar": {
-        "hash": "45cce11a4eb58ebf21514994b7247ce2dd33b39fe4c25fc4db555bd999009826",
-        "size": 4877448
+        "hash": "08c3801a7bfb557ef8b98e0a7357a45cc0546df01ccfbb019863d68ae438e5a3",
+        "size": 4881507
     },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
