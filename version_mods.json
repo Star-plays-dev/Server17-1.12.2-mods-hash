@@ -15,6 +15,10 @@
         "hash": "c96e0feb0126ae8f8c56083ffa2a4b7e35efa0d3a05e40ebaa29db0053bd50a3",
         "size": 4530885
     },
+    "CustomNPCs_1.12.2_05Jul20.jar": {
+        "hash": "2759356b95ffb6a88c14997ff508dfe30f66abaa8e2d8029e18e02dcb57bc8cc",
+        "size": 9911871
+    },
     "CustomSkinLoader_ForgeV1-14.28.jar": {
         "hash": "e43409dcc9476629a0295d1662c79dcf106f43e4d943cefd75d8e6feebc3362d",
         "size": 199551
@@ -26,6 +30,10 @@
     "ears-forge-1.12-1.4.7.jar": {
         "hash": "0c2c43f07df5d93c45df173b88fb7ae86b5b8efca92f210fe39b7455a9ca19c9",
         "size": 372284
+    },
+    "firstaid-1.11.2.jar": {
+        "hash": "40525c0166b12534069769eb2918326c5abcdae5a042f0394b2589e935ac6cad",
+        "size": 447778
     },
     "fogger-1.12.2-1.1.2.0.jar": {
         "hash": "428bd31f92b979c2e78eef4de6b409ed21afad89d07b93b1467c65bc5990e624",
@@ -52,8 +60,8 @@
         "size": 31130
     },
     "modchuma.jar": {
-        "hash": "4ce0533781bd51f74f39a57b0cdfd7e741806be7b98fb60262e73720d79ea092",
-        "size": 5146439
+        "hash": "c954aeddf2b05cf488e7e96de1e74dd2aad60751abcd1179eded60cbfb7df07b",
+        "size": 5176797
     },
     "plonk-1.12.2-10.0.4.jar": {
         "hash": "4d83f6caf8008c3b84fb048db448d94148cb5ac0381394b69e915150c3d7be48",
